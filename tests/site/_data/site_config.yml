@@ -19,8 +19,8 @@ breadcrumbs:
     - path: /news
       label: menu.updates
 country:
-  name: Australia
-  adjective: Australian
+  name: DATEA
+  adjective: dateista
 create_config_forms:
   layout: config-builder
 create_goals:
